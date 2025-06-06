@@ -16,7 +16,7 @@ for (let i = 0; i < botoes.length; i++) {
 
 const contadores = document.querySelectorAll(".contador");
 const tempoObjetivo1 = new Date("2025-11-16T00:00:00"); // 6 meses
-const tempoObjetivo2 = new Date("2025-05-31T00:00:00"); // 15 dias
+const tempoObjetivo2 = new Date("2025-07-26T00:00:00"); // 1 mes
 const tempoObjetivo3 = new Date("2025-08-16T00:00:00"); // 2 meses
 const tempoObjetivo4 = new Date("2025-06-29T00:00:00"); // 11 meses
 
